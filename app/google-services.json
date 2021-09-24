@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "172889583461",
+    "project_id": "fir-pushnotification-f952c",
+    "storage_bucket": "fir-pushnotification-f952c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172889583461:android:c10edef3d91ec597f3bb8c",
+        "android_client_info": {
+          "package_name": "com.zaich.firebasepushnotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172889583461-hq0dvd5akqhnvlhinvuggdm283ng5ppm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lWWwgCNEo3JtY_zxziWZZNFeiQ_M7VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172889583461-hq0dvd5akqhnvlhinvuggdm283ng5ppm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172889583461:android:c21ef242bf760038f3bb8c",
+        "android_client_info": {
+          "package_name": "com.zaich.firebaseretfrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172889583461-hq0dvd5akqhnvlhinvuggdm283ng5ppm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lWWwgCNEo3JtY_zxziWZZNFeiQ_M7VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172889583461-hq0dvd5akqhnvlhinvuggdm283ng5ppm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172889583461:android:ab53b0d104a8b119f3bb8c",
+        "android_client_info": {
+          "package_name": "com.zaich.notifwearosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172889583461-hq0dvd5akqhnvlhinvuggdm283ng5ppm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lWWwgCNEo3JtY_zxziWZZNFeiQ_M7VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172889583461-hq0dvd5akqhnvlhinvuggdm283ng5ppm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
